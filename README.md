@@ -34,12 +34,10 @@ Configure Roles:
 
 Accessed the Admin Panel and navigated to Agents -> Roles. Created a role named "Supreme Admin".
 
-
-https://imgur.com/w53j0Bm
-https://imgur.com/zrBqqZf 
-https://imgur.com/2DvCvjj
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/w53j0Bm.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+ <img src="https://imgur.com/zrBqqZf.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+ <img src="https://imgur.com/2DvCvjj.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 
 <br />
@@ -47,21 +45,22 @@ https://imgur.com/2DvCvjj
 Configure Departments:
 
 Accessed the Admin Panel and navigated to Agents -> Departments. Created a department named "System Administrators".
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/gKG92ew.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+
 </p>
 
-https://imgur.com/gKG92ew
 
 
 Configure Teams:
 
 Accessed the Admin Panel and navigated to Agents -> Teams. Created two teams named "Level I Support" and "Level II Support".
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/2itpRUv.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+
 </p>
 
-https://imgur.com/2itpRUv
 
 
 
@@ -71,48 +70,41 @@ Allow Anyone to Create Tickets:
 
 Accessed the Admin Panel and navigated to Settings -> User Settings. Set "Registration Required" to require registration and login to create tickets.
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/jjU2gzY.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
-
-https://imgur.com/jjU2gzY 
 
 <br />
 
 Configure Agents (Workers):
  
 Accessed the Admin Panel and navigated to Agents -> Add New. Added two agents named "Jane" and "John".
-
-<p> 
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+<img src="https://imgur.com/kKvNAqv.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 
-https://imgur.com/kKvNAqv
 
 
 Configure Users (Customers):
 
 Accessed the Agent Panel and navigated to Users -> Add New. Added two users named "Karen" and "Ken".
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/B9zD8UB.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
-https://imgur.com/B9zD8UB
 
 
 Configure SLA (Service Level Agreement):
 Accessed the Admin Panel and navigated to Manage -> SLA. Configured three SLAs: Sev-A (1 hour, 24/7), Sev-B (4 hours, 24/7), and Sev-C (8 hours, business hours).
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  https://imgur.com/puaXVkK
+<img src="https://imgur.com/puaXVkK.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
+
 
 Configure Help Topics:
 
 Accessed the Admin Panel and navigated to Manage -> Help Topics. Configured several help topics including "Business Critical Outage", "Personal Computer Issues", "Equipment Request", and "Password Reset". 
 
-https://imgur.com/h4mxn5n
-https://imgur.com/mw0396E
-
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/h4mxn5n.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+ <img src="https://imgur.com/mw0396E.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
